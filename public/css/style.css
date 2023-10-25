@@ -1,0 +1,27 @@
+.header-container {
+    background: #FFFCE5;
+    height: 700px;
+}
+
+.header-grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    /* grid-template-rows: 50px 150px; */
+    gap: 10px;
+}
+
+.header-logo {
+    background: red;
+    grid-column: 2 / -1;
+    margin-bottom: 50px;
+}
+
+.header-item-1 {
+    background: blue;
+    grid-column: 2 / 7;
+}
+
+.header-item-2 {
+    background: green;
+    grid-column: 7 / -2;
+}
