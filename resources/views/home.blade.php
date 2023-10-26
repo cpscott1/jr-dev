@@ -28,41 +28,56 @@
                  <button class="yellow-button">Join Waitlist</button>
                 </div>
                 <div class="header-item-2">
-                Item 2
+                    <img src="{{ asset('images/waitlist1.svg')}}" alt="hero-image">
                 </div>
             </div>
            
         </header>
         <section>
             <div class="second-section-grid">
-                <h3 class="second-section-item-1">
-                    Item 1
-                </h3>
+                <div class="second-section-item-1">
+                    <h3>
+                    A well-rounded coding education that equips kids with a strong foundation in programming and web development.
+                    </h3>
+                </div>
                 <div class="second-section-item-2">
-                    Item 2
+                    <div class="program-card">
+                        <p>HTML (Hypertext Markup Langauge)</p>
+                    </div>
+                     <div class="program-card">
+                        <p>CSS (Cascading Style Sheets)</p>
+                    </div>
+                    <div class="program-card">
+                        <p>JavaScript</p>
+                    </div>
                 </div>
                 <div class="second-section-item-3">
-                    Item 3
+                   <img src="{{ asset('images/vector.svg')}}" 
                 </div>
             </div>
         </section>
-        <section>
+        <section class="third-section-container">
             <div class="third-section-grid">
                 <div class="third-section-item-1">
-                    <p>Item 1</p>
+                    <div class="circle">
+                         <img src="{{ asset('images/crown.svg')}}"> 
+                    </div>
+                    <p>Experienced Instructors</p>
                 </div>
                 <div class="third-section-item-2">
-                    <p>Item 2</p>
+                    <div class="circle"><img src="{{ asset('images/video-camera.svg')}}"></div>
+                    <p>Fun and interactive learning</p>
                 </div>
                 <div class="third-section-item-3">
-                    <p>Item 3</p>
+                    <div class="circle"><img src="{{ asset('images/checkmark.svg')}}"></div>
+                    <p>Cutting-Edge Cirriculum</p>
                 </div>
             </div>
         </section>
         <section>
             <div class="fourth-section-grid">
                 <div class="fourth-section-item-1">
-                    <h3>Item 1</h3>
+                    <h3>Our coursework focuses on three pillars to ensure that the kids get the best learning experience</h3>
                 </div>
                 <div class="fourth-section-item-2">
                     <h4>Item 2</h4>
