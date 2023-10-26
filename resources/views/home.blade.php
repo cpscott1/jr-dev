@@ -11,7 +11,9 @@
         <link rel="stylesheet" href="{{ asset('css/reset.css')}}">
        
         <link rel="stylesheet" href="{{ asset('css/style.css')}}">
-       
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
     </head>
     <body>
     <div>
@@ -21,7 +23,9 @@
                     Logo
                 </div>
                 <div class="header-item-1">
-                Item 1
+                <h2>We help young minds become tech wizards!</h2>
+                <p>Our mission is to empower kids with the skills they need to thrive in the digital age and become creators, problem solvers and innovators.</p>
+                 <button class="yellow-button">Join Waitlist</button>
                 </div>
                 <div class="header-item-2">
                 Item 2
