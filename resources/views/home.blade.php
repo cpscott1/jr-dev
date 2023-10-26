@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>JR Dev Kids</title>
+        <title>JR Dev Teens</title>
 
         <!-- Fonts -->
        
@@ -20,7 +20,7 @@
         <header class="header-container">
             <div class="header-grid">
                 <div class="header-logo">
-                    Logo
+                    Jr Dev Teen 
                 </div>
                 <div class="header-item-1">
                 <h2>We help young minds become tech wizards!</h2>

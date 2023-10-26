@@ -15,7 +15,7 @@
 }
 
 .header-logo {
-    background: red;
+    background: yellow;
     grid-column: 1 / -1;
     padding-top: 25px;
     padding-bottom: 25px;
